@@ -1,0 +1,22 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  td, th {
+    border: 1px solid #888888;
+    text-align: left;
+    padding: 8px;
+    max-width: 150px;
+  }
+  
+  tr:nth-child(odd) {
+    background-color: #dddddd;
+  }
+
+  .tableHeaders {
+    background-color: rgb(105, 105, 105);
+    color: white;
+  }
