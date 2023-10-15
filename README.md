@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Data Visualization on Wine Dataset
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Please refer below images
+![FLAVANOID!](src/assets/flavanoid_table.png)
+
+![GAMMA!](src/assets/gamma_table.png)
 
 ## Available Scripts
 
